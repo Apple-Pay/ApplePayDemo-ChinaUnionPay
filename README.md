@@ -1,2 +1,2 @@
-# ApplePayDemo
-ApplePayDemo By Samboo
+# ApplePayDemo-ChinaUnionPay
+ApplePayDemo-ChinaUnionPay By Samboo
