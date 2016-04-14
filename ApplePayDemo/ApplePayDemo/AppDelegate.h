@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  ApplePayDemo
 //
-//  Created by ios on 16/3/3.
+//  Created by iOS on 16/3/3.
 //  Copyright © 2016年 iOS.Samboo. All rights reserved.
 //
 
